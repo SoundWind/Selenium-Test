@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Regino
- *
- */
-module Pruebas {
-}
